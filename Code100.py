@@ -70,6 +70,26 @@ find the sum of numbers in a given range
 
 
 """
+Finding Fibonacci Sequence
+"""
+##a=int(input())
+##b,c=0,1
+##if a<0:
+##    print("Incorrect Input")
+##elif a==0:
+##    print(a)
+##elif a==1 or a==2:
+##    print(1)
+##else:
+##    print(b,c,end=" ")
+##    for i in range(2,a):
+##        d=b+c
+##        b=c
+##        c=d
+##        print(d,end=" ")      
+      
+      
+"""
 Find Greatest of Two Numbers
 """
 ##a,b=map(int,input().split())
