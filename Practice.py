@@ -1,8 +1,3 @@
-##print("Hello World")
-##print("This is DELL")
-
-
-
 ##a=int(input())
 ##b=int(input())
 ##a=str(a)
