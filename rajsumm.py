@@ -1,19 +1,3 @@
-#Basic
-##
-##print("hello gopal")
-##
-##print('gopal s computer')
-##
-##print('gopal\'s computer')
-##
-##print("gopal\n\tgopal")
-##
-##print("gopal\n"*5)
-##
-##print("gopal\t"*5)
-##
-##print('Gopal'+"Bhusani")
-##
 ##a=20
 ##b=30
 ##print(a+b)
