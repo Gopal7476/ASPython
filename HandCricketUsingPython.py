@@ -1,3 +1,5 @@
+#This a Hands-on-code exercise from the DEV TOWN Bootcamp on Intro to Data Science using Python
+
 import random
 
 def check_input_lessthan_6():
